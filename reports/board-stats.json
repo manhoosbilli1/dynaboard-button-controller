@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "date": "2026-05-18T04:10:20",
+    "generator": "KiCad 10.0.1",
+    "project": "DynaButton",
+    "board_name": "DynaButton"
+  },
+  "board": {
+    "has_outline": true,
+    "width": "48.3108 mm",
+    "height": "52.8828 mm",
+    "area": "2554.81 mm²",
+    "front_component_density": "47.83",
+    "back_component_density": "3.80",
+    "front_copper_area": "1841.329 mm²",
+    "back_copper_area": "2243.612 mm²",
+    "min_track_clearance": "0.2000 mm",
+    "min_track_width": "0.1520 mm",
+    "min_drill_diameter": "0.3000 mm",
+    "board_thickness": "1.6000 mm",
+    "front_footprint_area": "1221.996 mm²",
+    "back_footprint_area": "97.021 mm²",
+    "front_footprint_density": "47.83",
+    "back_footprint_density": "3.80"
+  },
+  "pads": {
+    "through_hole": 23,
+    "smd": 207,
+    "connector": 6,
+    "npth": 13,
+    "castellated": 0,
+    "press_fit": 0
+  },
+  "vias": {
+    "through": 139,
+    "blind": 0,
+    "buried": 0,
+    "micro": 0
+  },
+  "components": {
+    "tht": {
+      "front": 4,
+      "back": 0,
+      "total": 4
+    },
+    "smd": {
+      "front": 40,
+      "back": 0,
+      "total": 40
+    },
+    "unspecified": {
+      "front": 24,
+      "back": 0,
+      "total": 24
+    },
+    "total": {
+      "front": 68,
+      "back": 0,
+      "total": 68
+    }
+  },
+  "drill_holes": [
+    {
+      "count": 139,
+      "shape": "Round",
+      "x_size": "0.3000 mm",
+      "y_size": "0.3000 mm",
+      "plated": true,
+      "source": "Via",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 12,
+      "shape": "Round",
+      "x_size": "1.0000 mm",
+      "y_size": "1.0000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 7,
+      "shape": "Round",
+      "x_size": "0.3000 mm",
+      "y_size": "0.3000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Round",
+      "x_size": "2.2000 mm",
+      "y_size": "2.2000 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 4,
+      "shape": "Round",
+      "x_size": "2.3749 mm",
+      "y_size": "2.3749 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 3,
+      "shape": "Round",
+      "x_size": "0.9906 mm",
+      "y_size": "0.9906 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 2,
+      "shape": "Round",
+      "x_size": "0.6000 mm",
+      "y_size": "0.6000 mm",
+      "plated": false,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 2,
+      "shape": "Slot",
+      "x_size": "0.5000 mm",
+      "y_size": "1.6000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    },
+    {
+      "count": 2,
+      "shape": "Slot",
+      "x_size": "0.5000 mm",
+      "y_size": "1.3000 mm",
+      "plated": true,
+      "source": "Pad",
+      "start_layer": "F.Cu",
+      "stop_layer": "B.Cu"
+    }
+  ]
+}
